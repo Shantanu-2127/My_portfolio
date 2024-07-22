@@ -1,5 +1,5 @@
 # Run Application Live 
-[PortFolio]((https://scubeportfolio-shantanu-2127s-projects.vercel.app/))
+[PortFolio](https://scubeportfolio-shantanu-2127s-projects.vercel.app/)
 
 
 # Getting Started with Create React App
