@@ -9,7 +9,7 @@ const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
   return (
     <nav className="navbar">
-      <div className="logo">Shantanu Singh Sisodia</div>
+      <div className="logo">s_cube</div>
       <div className="desktopMenu">
         <Link
           activeClass="active"
