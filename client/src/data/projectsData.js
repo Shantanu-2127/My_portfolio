@@ -26,7 +26,7 @@ export const projectsData = [
     skills: ["NextJs", "NodeJs", "MongoDB", "JavaScript"],
     content:
       "WesternGhat is a property website allowing users to learn more and book accommodations. We made it with NextJS, TailwindCSS and for payment, we integrated Razorpay. Additionally, an admin panel built with React (Vite), TailwindCSS, and Material Tailwind facilitates monitoring, offline booking, and analytics. The unified backend, utilizing Node.js, Express, and MongoDB.",
-    website: "https://github.com/Shantanu-2127/Western-Ghat-Homestay",
+    website: "https://wg.rayabharitechnologies.com/",
     github: "https://github.com/Shantanu-2127/Western-Ghat-Homestay",
   },
   {
