@@ -60,7 +60,7 @@ export const experienceData = [
   {
     date: "Jul 2023 - Dec 2023",
     title: "FullStack Developer Intern",
-    subtitle: "Synopsis",
+    subtitle: "A2IT Private Limited",
     content: [
       "Successfully organized and tracked applicants throughout the entire hiring process, including categorizing them as applied, recommended, hired, declined, or withdrawn.",
     ],
